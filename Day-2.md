@@ -8,6 +8,7 @@ I already knew ...
 ## Day-2 Checklist
 
 - [X] I understand what `PATH` is and why commands like `python` work without full paths
+- [X] I can navigate the filesystem without clicking — using `cd`, `ls`, and `pwd` only
 - [X] I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
 - [X] I can edit a file using `nano` (open, edit, save, exit)
 - [X] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
